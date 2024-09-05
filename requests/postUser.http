@@ -2,7 +2,7 @@ POST http://localhost:3000/users HTTP/1.1
 Content-Type: application/json
 
 {
-  "name":"Toma Pitt",
+  "name":"Anna Pitt",
   "email":"pittoma@gmail.com",
   "password":"pitt123",
   "isMale":false
